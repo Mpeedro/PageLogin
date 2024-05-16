@@ -126,22 +126,20 @@ section{
 @media only screen and (max-width: 720px) {
     .crie{
         width: 40%; 
-        margin-left: 80px;
-        
+        margin-left: 80px;  
     }
     .crie h1{
-        margin-left: 100px;
-        
+        margin-left: 50px;
        
     }
     .crie p{
-        margin-left: 100px;
+        margin-left: 50px;
 
     }
 
     .form{
         width: 20%; 
-       margin-left: -30%;
+       margin-left: -20%;
 
     }
 }
