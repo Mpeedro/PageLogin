@@ -130,11 +130,12 @@ section{
     }
     .crie h1{
         margin-left: 120px;
-        display: flex;
+        width:50%;
        
     }
     .crie p{
         margin-left: 120px;
+        width: 50%;
 
     }
 
