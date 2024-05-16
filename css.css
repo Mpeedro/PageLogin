@@ -138,7 +138,10 @@ section{
 
     }
 
- 
+      .sectionlogin{
+        width: 450px;
+    }
+
     .form{
         width: 20%; 
        margin-left: -30%;
