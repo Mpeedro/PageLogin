@@ -145,6 +145,9 @@ section{
         width: 80px;
         height: 10px;
     }
+     .crie{
+        text-align: center;
+    }
 }
 @media only screen and (max-width: 520px) {
     .crie h1{
@@ -166,5 +169,8 @@ section{
     section{
         width: 80px;
         height: 100px;
+    }
+     .crie{
+        text-align: center;
     }
 }
