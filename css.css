@@ -125,47 +125,54 @@ section{
 
 @media only screen and (max-width: 830px) {
     .crie{
-        width: 80%;
-        margin-left: 10%;
+        width: 50%; 
+        margin-left: 60px;  
     }
     .crie h1{
-        margin-left: 0;
-        width: 100%;
+        margin-left: 80px;
+        width:50%;
+       
     }
     .crie p{
-        margin-left: 0;
-        width: 100%;
+        margin-left: 80px;
+        width: 50%;
+
     }
+
     .form{
-        width: 80%;
-        margin-left: 10%;
+        width: 20%; 
+       margin-left: -0%;
+
     }
+
     section{
-        width: 100%;
-        height: auto;
+        width: 80px;
+        height: 100px;
     }
 }
-
 @media only screen and (max-width: 520px) {
     .crie{
-        width: 90%;
-        margin-left: 5%;
+        width: 50%; 
+        margin-left: 40px;  
     }
     .crie h1{
-        margin-left: 0;
-        width: 100%;
+        margin-left: 40px;
+        width:50%;
+       
     }
     .crie p{
-        margin-left: 0;
-        width: 100%;
+        margin-left: 80px;
+        width: 50%;
+
     }
+
     .form{
-        width: 90%;
-        margin-left: 5%;
+        width: 20%; 
+       margin-left: -0%;
+
     }
     section{
-        width: 100%;
-        height: auto;
+        width: 80px;
+        height: 100px;
     }
 }
-
