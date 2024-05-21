@@ -129,12 +129,12 @@ section{
         margin-left: 60px;  
     }
     .crie h1{
-        margin-left: 120px;
+        margin-left: 80px;
         width:50%;
        
     }
     .crie p{
-        margin-left: 120px;
+        margin-left: 80px;
         width: 50%;
 
     }
@@ -143,6 +143,11 @@ section{
         width: 20%; 
        margin-left: -0%;
 
+    }
+
+    section{
+        width: 80px;
+        height: 100px;
     }
 }
 @media only screen and (max-width: 520px) {
@@ -151,12 +156,12 @@ section{
         margin-left: 60px;  
     }
     .crie h1{
-        margin-left: 120px;
+        margin-left: 80px;
         width:50%;
        
     }
     .crie p{
-        margin-left: 120px;
+        margin-left: 80px;
         width: 50%;
 
     }
@@ -165,5 +170,9 @@ section{
         width: 20%; 
        margin-left: -0%;
 
+    }
+    section{
+        width: 80px;
+        height: 100px;
     }
 }
