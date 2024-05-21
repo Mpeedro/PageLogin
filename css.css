@@ -123,25 +123,47 @@ section{
 
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 1000px) {
     .crie{
-        width: 60%; 
+        width: 50%; 
         margin-left: 60px;  
     }
     .crie h1{
-        margin-left: 200px;
-        width:100%;
+        margin-left: 120px;
+        width:50%;
        
     }
     .crie p{
-        margin-left: 200px;
-        width: 100%;
+        margin-left: 120px;
+        width: 50%;
 
     }
 
     .form{
         width: 20%; 
-       margin-left: -10%;
+       margin-left: -0%;
+
+    }
+}
+@media only screen and (max-width: 520px) {
+    .crie{
+        width: 50%; 
+        margin-left: 60px;  
+    }
+    .crie h1{
+        margin-left: 120px;
+        width:50%;
+       
+    }
+    .crie p{
+        margin-left: 120px;
+        width: 50%;
+
+    }
+
+    .form{
+        width: 20%; 
+       margin-left: -0%;
 
     }
 }
