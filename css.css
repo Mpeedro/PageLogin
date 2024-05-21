@@ -124,10 +124,6 @@ section{
 }
 
 @media only screen and (max-width: 830px) {
-    .crie{
-        width: 50%; 
-        margin-left: 60px;  
-    }
     .crie h1{
         margin-left: 100px;
         width:50%;
@@ -146,15 +142,11 @@ section{
     }
 
     section{
-        width: 50px;
-        height: 100px;
+        width: 80px;
+        height: 10px;
     }
 }
 @media only screen and (max-width: 520px) {
-    .crie{
-        width: 50%; 
-        margin-left: 40px;  
-    }
     .crie h1{
         margin-left: 100px;
         width:50%;
@@ -172,7 +164,7 @@ section{
 
     }
     section{
-        width: 50px;
+        width: 80px;
         height: 100px;
     }
 }
